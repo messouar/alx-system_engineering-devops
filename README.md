@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This repository is for practicing the bash scripting
