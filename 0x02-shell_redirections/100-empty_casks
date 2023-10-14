@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -type f -empty | rev | cut -d '/' -f 1 | rev
+find . -mindepth 1 -empty | rev | cut -d '/' -f 1 | rev
